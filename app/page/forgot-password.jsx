@@ -35,7 +35,7 @@ export default function ForgotPassword() {
         {/* Logo and Title */}
         <View style={styles.header}>
           <Text style={styles.title}>TruckCare</Text>
-          <Image source={Draw} style={{ width: 150, height: 150 }} />
+          <Image source={Draw} style={{ width: 200, height: 150 }} />
         </View>
 
         <Text style={styles.subtitle}>Forgot Password</Text>

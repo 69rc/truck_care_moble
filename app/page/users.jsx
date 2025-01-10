@@ -204,6 +204,7 @@ const styles = StyleSheet.create({
     marginTop: 16,
     padding: 16,
     borderRadius: 8,
+    marginBottom: 20,
   },
   logoutText: {
     color: '#FF5252',
